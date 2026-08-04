@@ -32,9 +32,9 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **GestureLab** | Interactive web experience using webcam hand tracking and shader effects. | React, TypeScript, Three.js, MediaPipe | [Live Demo](https://psreader.github.io/My-Pages/GestureLab/dist/index.html) |
-| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions. | HTML, CSS, Vanilla JS | [Repository](https://github.com/PsReader/My-Pages/tree/main/LOTM) |
+| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions. | HTML, CSS, Vanilla JS | [Live Demo](https://psreader.github.io/My-Pages/LOTM/LOTMhome.html) |
 | **Scratchpad** | Browser note dashboard featuring custom themes & persistent storage. | HTML, CSS, Vanilla JS | [Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) |
-| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts. | HTML, CSS | [Repository](https://github.com/PsReader/My-Pages/tree/main/Pudding%20Paradise) |
+| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts. | HTML, CSS | [Live Demo](https://psreader.github.io/My-Pages/Pudding%20Paradise/puddinghome.html) |
 
 ---
 
