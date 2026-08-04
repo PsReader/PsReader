@@ -9,9 +9,9 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ---
 
 ### What I'm Up To
-- **Currently:** Deepening Vanilla JS, React, TypeScript, and modern Web UI[cite: 2].
+- **Currently:** Deepening Vanilla JS, React, TypeScript, and modern Web UI.
 - **Focus:** Building projects in public and sharpening skills during my Field Work Program.
-- **Latest Release:** [Scratchpad](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) — a client-side note dashboard powered by `localStorage`[cite: 2].
+- **Latest Release:** [Scratchpad](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) — a client-side note dashboard powered by `localStorage`.
 
 ---
 
@@ -31,10 +31,10 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **GestureLab** | Interactive web experience using webcam hand tracking and shader effects[cite: 2]. | React, TypeScript, Three.js, MediaPipe[cite: 2] | [Repository](https://github.com/PsReader/My-Pages/tree/main/GestureLab) |
-| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions[cite: 2]. | HTML, CSS, Vanilla JS[cite: 2] | [Repository](https://github.com/PsReader/My-Pages/tree/main/LOTM) |
-| **Scratchpad** | Browser note dashboard featuring custom themes & persistent storage[cite: 2]. | HTML, CSS, Vanilla JS[cite: 2] | [Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) |
-| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts[cite: 2]. | HTML, CSS[cite: 2] | [Repository](https://github.com/PsReader/My-Pages/tree/main/Pudding%20Paradise) |
+| **GestureLab** | Interactive web experience using webcam hand tracking and shader effects. | React, TypeScript, Three.js, MediaPipe | [Repository](https://github.com/PsReader/My-Pages/tree/main/GestureLab) |
+| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions. | HTML, CSS, Vanilla JS | [Repository](https://github.com/PsReader/My-Pages/tree/main/LOTM) |
+| **Scratchpad** | Browser note dashboard featuring custom themes & persistent storage. | HTML, CSS, Vanilla JS | [Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) |
+| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts. | HTML, CSS | [Repository](https://github.com/PsReader/My-Pages/tree/main/Pudding%20Paradise) |
 
 ---
 
@@ -45,24 +45,24 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsReader&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
 ### ☕ Beyond the Code
-- 📖 Huge fan of web novels (*Lord of the Mysteries* enjoyer)[cite: 2].
+- 📖 Huge fan of web novels (*Lord of the Mysteries* enjoyer).
 - 🎨 Passionate about motion design and clean UI micro-interactions.
 - ⚡ Always down to collaborate on creative frontend projects.
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes-five.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-</p>
-
----
-
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosa-simanjuntak-20uf62420)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=github&logoColor=white)](https://psreader.github.io/My-Pages/)
