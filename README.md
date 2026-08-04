@@ -11,7 +11,7 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ### What I'm Up To
 - **Currently:** Deepening Vanilla JS, React, TypeScript, and modern Web UI.
 - **Focus:** Building projects in public and sharpening skills during my Field Work Program.
-- **Latest Release:** [Scratchpad](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) — a client-side note dashboard powered by `localStorage`.
+- **Latest Release:** [Scratchpad](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) — a client-side note dashboard powered by `localStorage`[cite: 1].
 
 ---
 
@@ -31,10 +31,10 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **GestureLab** | Interactive web experience using webcam hand tracking and shader effects. | React, TypeScript, Three.js, MediaPipe | [Repository](https://github.com/PsReader/My-Pages/tree/main/GestureLab) |
-| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions. | HTML, CSS, Vanilla JS | [Repository](https://github.com/PsReader/My-Pages/tree/main/LOTM) |
-| **Scratchpad** | Browser note dashboard featuring custom themes & persistent storage. | HTML, CSS, Vanilla JS | [Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) |
-| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts. | HTML, CSS | [Repository](https://github.com/PsReader/My-Pages/tree/main/Pudding%20Paradise) |
+| **GestureLab** | Interactive web experience using webcam hand tracking and shader effects[cite: 1]. | React, TypeScript, Three.js, MediaPipe[cite: 1] | [Repository](https://github.com/PsReader/My-Pages/tree/main/GestureLab) |
+| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions[cite: 1]. | HTML, CSS, Vanilla JS[cite: 1] | [Repository](https://github.com/PsReader/My-Pages/tree/main/LOTM) |
+| **Scratchpad** | Browser note dashboard featuring custom themes & persistent storage[cite: 1]. | HTML, CSS, Vanilla JS[cite: 1] | [Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) |
+| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts[cite: 1]. | HTML, CSS[cite: 1] | [Repository](https://github.com/PsReader/My-Pages/tree/main/Pudding%20Paradise) |
 
 ---
 
@@ -55,7 +55,7 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ---
 
 ### ☕ Beyond the Code
-- 📖 Huge fan of web novels (*Lord of the Mysteries* enjoyer).
+- 📖 Huge fan of web novels (*Lord of the Mysteries* enjoyer)[cite: 1].
 - 🎨 Passionate about motion design and clean UI micro-interactions.
 - ⚡ Always down to collaborate on creative frontend projects.
 
@@ -72,4 +72,5 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosa-simanjuntak-20uf62420)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p.sreader)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=github&logoColor=white)](https://psreader.github.io/My-Pages/)
