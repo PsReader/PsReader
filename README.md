@@ -41,8 +41,16 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsReader&show_icons=true&theme=tokyonight&hide_border=true" alt="PsReader GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsReader&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PsReader&show_icons=true&theme=tokyonight&hide_border=true" alt="PsReader GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PsReader&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/PsReader/PsReader/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
