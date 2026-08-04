@@ -62,6 +62,14 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 
 ---
 
+### ⚡ Daily Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+</p>
+
+---
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosa-simanjuntak-20uf62420)
