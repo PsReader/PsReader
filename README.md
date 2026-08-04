@@ -61,10 +61,10 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 
 ---
 
-### 💡 Daily Quote
+### ⚡ Dev Mantras
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=50&lines=It's+not+a+bug%2C+it's+an+undocumented+feature.;Works+on+my+machine...+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;99+little+bugs+in+the+code...+fix+one%2C+127+bugs+left.;console.log('why+is+this+undefined%3F');" alt="Typing SVG" />
 </p>
 
 ---
