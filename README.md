@@ -72,5 +72,5 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosa-simanjuntak-20uf62420)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p.sreader)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p.sreader)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=github&logoColor=white)](https://psreader.github.io/My-Pages/)
