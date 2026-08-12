@@ -1,17 +1,46 @@
-# Hi, I'm PsReader
+# PsReader
 
-> "Building cool stuff on the web, one console.log at a time."
+> "Building strange things on the web, one line at a time."
 
-🎓 **Software Engineering Student** | 💻 **Frontend & Web UI Builder**
+Software Engineering Student | Frontend Developer & Web UI Builder
 
-I build clean, responsive web applications, experiment with 3D graphics and client-side state, and focus on smooth user interfaces.
+I build immersive web experiences that sit between function and atmosphere. My work is shaped by visual storytelling, motion-driven interfaces, and browser-based experiments that feel more like artifacts than ordinary apps.
 
 ---
 
-### What I'm Up To
-- **Currently:** Deepening Vanilla JS, React, TypeScript, and modern Web UI.
-- **Focus:** Building projects in public and sharpening skills during my Field Work Program.
-- **Latest Release:** [GestureLab](https://psreader.github.io/My-Pages/GestureLab/dist/index.html) — interactive 3D web experience driven by webcam hand tracking.
+### Current Pursuits
+
+- Deepening my understanding of React, TypeScript, and modern frontend systems
+- Exploring 3D interaction, motion design, and immersive UI patterns
+- Building experiences that blend storytelling, atmosphere, and practical engineering
+
+---
+
+### Featured Works
+
+#### GestureLab
+
+A webcam-driven 3D experience that turns motion into visual ritual. Built with React, TypeScript, and Three.js to explore interaction and perception.
+
+[Live Demo](https://psreader.github.io/My-Pages/GestureLab/dist/index.html)
+
+#### Lord of the Mysteries
+
+A narrative-driven interactive experience shaped by layered pages, hidden pathways, and worldbuilding-inspired design.
+
+[Live Demo](https://psreader.github.io/My-Pages/LOTM/LOTMhome.html)
+
+#### Scratchpad
+
+A minimal dashboard for notes, themes, and personal workflow with a more atmospheric interface.
+
+[Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html)
+
+#### Pudding Paradise
+
+A playful storefront concept with a strong visual identity and handcrafted UI details.
+
+[Live Demo](https://psreader.github.io/My-Pages/Pudding%20Paradise/puddinghome.html)
 
 ---
 
@@ -24,17 +53,6 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **GestureLab** | Interactive web experience using webcam hand tracking and shader effects. | React, TypeScript, Three.js, MediaPipe | [Live Demo](https://psreader.github.io/My-Pages/GestureLab/dist/index.html) |
-| **Lord of the Mysteries** | Interactive grimoire with 20+ interconnected pages covering pathways and factions. | HTML, CSS, Vanilla JS | [Live Demo](https://psreader.github.io/My-Pages/LOTM/LOTMhome.html) |
-| **Scratchpad** | Browser note dashboard featuring custom themes & persistent storage. | HTML, CSS, Vanilla JS | [Live Demo](https://psreader.github.io/My-Pages/Scratchpad/ScratchpadHome.html) |
-| **Pudding Paradise** | Dessert-themed storefront site with custom menu and review layouts. | HTML, CSS | [Live Demo](https://psreader.github.io/My-Pages/Pudding%20Paradise/puddinghome.html) |
 
 ---
 
@@ -54,18 +72,10 @@ I build clean, responsive web applications, experiment with 3D graphics and clie
 
 ---
 
-### ☕ Beyond the Code
-- 📖 Huge fan of web novels (*Lord of the Mysteries* enjoyer).
-- 🎨 Passionate about motion design and clean UI micro-interactions.
-- ⚡ Always down to collaborate on creative frontend projects.
+### Beyond the Code
 
----
-
-### ⚡ Dev Mantras
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=50&lines=It's+not+a+bug%2C+it's+an+undocumented+feature.;Works+on+my+machine...+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;99+little+bugs+in+the+code...+fix+one%2C+127+bugs+left.;console.log('why+is+this+undefined%3F');" alt="Typing SVG" />
-</p>
+- Obsessed with motion, texture, and interfaces that feel alive
+- Open to collaborative work on creative frontend and experimental web projects
 
 ---
 
